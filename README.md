@@ -2,55 +2,63 @@
 <h1 align="center">Hi 👋, I'm Gautam V</h1>
 
 <p align="center">
-<b>Integrated M.Tech Software Engineering Student at VIT Vellore</b><br>
-Java Developer • DSA Learner • Full Stack Enthusiast
+  <b>Integrated M.Tech Software Engineering Student at VIT Vellore</b><br>
+  Java Developer • DSA Learner • Full Stack Enthusiast
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Learning+Java+and+DSA;Building+Real+World+Projects;Aspiring+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Java+Developer;Learning+Data+Structures+%26+Algorithms;Building+Projects;Future+Software+Engineer"/>
 </p>
 
 ---
 
 ## About Me
 
-I'm an Integrated M.Tech Software Engineering student at **VIT Vellore** with a strong interest in software development and problem-solving.
+I'm an Integrated M.Tech Software Engineering student at **VIT Vellore**.
 
-Currently, I'm focused on strengthening my programming skills through Data Structures & Algorithms while building practical projects in web development.
+I enjoy building software projects, solving programming problems, and continuously improving my development skills.
 
-### Current Focus
-
-- Learning Java and Data Structures & Algorithms
-- Building Full Stack Development skills
-- Solving coding problems on LeetCode
-- Creating projects to improve my development skills
+Currently, I'm focusing on Java, Data Structures & Algorithms, and Full Stack Development.
 
 ---
 
 ## Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,mysql,git,github,vscode" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### File Encryption System
+### 🔗 [File Encryption System](https://github.com/gautam-v3/FILE-ENCRYPTION-SYSTEM)
+
 Secure file encryption application using AES and RSA with Flask.
 
-### Personal Portfolio
-A responsive portfolio website showcasing my projects and technical skills.
+---
 
-### Windows Style Calculator
-A Windows-inspired calculator built using HTML, CSS, and JavaScript.
+### 🔗 [Personal Portfolio](https://github.com/gautam-v3/Portfolio)
 
-### Career Path Prediction System
-A machine learning project for predicting suitable career paths using data analysis.
+Responsive portfolio website showcasing my projects and skills.
 
-### Smart To-Do List
-A task management application for organizing daily activities.
+---
+
+### 🔗 [Windows Style Calculator](https://github.com/gautam-v3/windows-style-calculator)
+
+Windows-inspired calculator built using HTML, CSS and JavaScript.
+
+---
+
+### 🔗 [Career Path Prediction System](https://github.com/gautam-v3/career-path-prediction-system)
+
+Machine learning project for predicting suitable career paths.
+
+---
+
+### 🔗 [Smart To-Do List](https://github.com/gautam-v3/smart-to-do-list)
+
+Simple task management application for organizing daily activities.
 
 ---
 
@@ -72,11 +80,18 @@ A task management application for organizing daily activities.
 
 ---
 
-## Connect With Me
+## GitHub Goals (2026)
+
+- Solve 300+ DSA problems
+- Build Full Stack applications
+- Learn Spring Boot
+- Contribute to Open Source
+
+---
+
+## Connect
 
 📧 Email: gautamvenkatesan05@gmail.com
-
-LinkedIn: *(Coming Soon)*
 
 ---
 
