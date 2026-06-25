@@ -1,106 +1,111 @@
+
 <h1 align="center">Hi 👋, I'm Gautam V</h1>
 
 <h3 align="center">
-Software Engineering Student | Aspiring Software Engineer
+Integrated M.Tech Software Engineering Student | Java Developer | DSA Learner | Full Stack Enthusiast
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+Developer;Learning+DSA;Future+Software+Engineer;Full+Stack+Learner"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Learning+Data+Structures+%26+Algorithms;Full+Stack+Development+Learner;Future+Software+Engineer"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Integrated M.Tech Software Engineering Student
+🎓 **Integrated M.Tech Software Engineering Student** at **VIT Vellore**
 
-🏫 VIT Vellore
+💡 Passionate about building software, solving problems, and learning modern technologies.
 
-💻 Interested in
+## 🚀 Interests
 
-- Software Engineering
-- Data Structures & Algorithms
-- Full Stack Development
+- 💻 Software Engineering
+- 📚 Data Structures & Algorithms
+- 🌐 Full Stack Development
+- ⚙️ Backend Development
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 
-- C
 - Java
+- C Programming
 - JavaScript
 - SQL
+- Data Structures & Algorithms
 
-🎯 Goal
+## 🎯 Career Goal
 
-Become a Software Engineer at a Product Based Company.
+Become a Software Engineer at a leading product-based company by building strong programming skills and real-world projects.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Current Focus
+# 📂 Featured Projects
 
-✔ Learning Java DSA
+### 🔐 File Encryption System
+Secure file encryption application using AES and RSA with Flask.
 
-✔ Building Projects
+### 🌐 Personal Portfolio
+A responsive portfolio website showcasing my projects and technical skills.
 
-✔ Improving Problem Solving
+### 🧮 Windows Style Calculator
+A Windows-inspired calculator built using HTML, CSS, and JavaScript.
 
-✔ Learning Full Stack
+### 📊 Career Path Prediction System
+A machine learning project that predicts suitable career paths using data analysis.
 
----
-
-## 📂 Featured Projects
-
-🔐 File Encryption System
-
-🌐 Personal Portfolio
-
-📚 Java DSA Repository *(Coming Soon)*
+### 📝 Smart To-Do List
+A simple task management application for organizing daily activities.
 
 ---
 
-## 💻 LeetCode
+# 📖 Currently Working On
 
-https://leetcode.com/u/Gautamv33/
+- 📘 Learning Java DSA
+- 💻 Solving LeetCode Problems
+- 🚀 Building Full Stack Projects
+- 🌱 Improving Problem Solving Skills
 
 ---
 
-## 📫 Connect
+# 💻 Coding Profiles
 
-LinkedIn *(Coming Soon)*
+### LeetCode
 
-Email *(Add your email later)*
+🔗 https://leetcode.com/u/Gautamv33/
+
+---
+
+# 📈 GitHub Journey
+
+- 🚀 Continuously improving my coding skills
+- 📚 Building practical projects
+- 💻 Exploring new technologies
+- 🌱 Learning every day
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: gautamvenkatesan05@gmail.com
+
+*(Add your LinkedIn profile here once you create it.)*
+
+---
+
+# ⚡ Fun Fact
+
+> "Every expert was once a beginner. Consistency is my superpower."
 
 ---
 
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
-
 </p>
+```
